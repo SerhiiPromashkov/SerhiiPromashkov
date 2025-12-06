@@ -7,16 +7,26 @@ I love creating amazing web experiences and turning ideas into reality! 🚀
 
 ## ⚡ My Tech Stack
 
-| Web & Programming | Version Control | Design & Media |
-|-----------------|----------------|----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" title="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" title="Figma" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" title="GitHub" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="60" height="60" title="Photoshop" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" /> | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="60" height="60" title="Illustrator" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" /> | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" title="Blender" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" title="Sass" /> | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sony/sony-original.svg" width="60" height="60" title="Sony Vegas" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-original.svg" width="60" height="60" title="Less" /> | - | - |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" title="Bootstrap" /> | - | - |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" title="Tailwind CSS" /> | - | - |
+<!-- Web & Programming -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F0DB4F&logoWidth=40)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=40)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&logoWidth=40)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white&logoWidth=40)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=40)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=40)
+
+<!-- Version Control -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
+
+<!-- Design & Media -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=40)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&logoWidth=40)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&logoWidth=40)
+![Sony Vegas](https://img.shields.io/badge/SonyVegas-5C2A83?style=for-the-badge&logo=sony&logoColor=white&logoWidth=40)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&logoWidth=40)
 
 ---
 
@@ -30,7 +40,7 @@ I love creating amazing web experiences and turning ideas into reality! 🚀
 
 ## 📫 Let's connect
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promashkovsergey363@email.com)
 
 ---
 
