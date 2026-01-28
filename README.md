@@ -39,7 +39,7 @@ I love creating amazing web experiences and turning ideas into reality! 🚀
 ---
 
 ## 📫 Let's connect
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/q33prml)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promashkovsergey363@email.com)
 
 ---
